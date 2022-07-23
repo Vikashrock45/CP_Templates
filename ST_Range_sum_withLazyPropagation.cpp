@@ -1,3 +1,4 @@
+//You can convert from range sum to range min and range max with slight modification.
 class ST {
   vector<int> seg, lazy;
   

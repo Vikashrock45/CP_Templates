@@ -1,3 +1,4 @@
+//You can convert from range min to range sum and range max with slight modification.
 class SGTree {
 public:
   vector<int> seg;
